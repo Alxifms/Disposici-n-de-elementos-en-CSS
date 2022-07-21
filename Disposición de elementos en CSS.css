@@ -1,0 +1,11 @@
+.flex {
+    display: flex;
+    background-color: yellow;
+    height: 600px;
+    justify-content: space-around;
+    flex-wrap:wrap;
+}
+
+.imagen {
+    width: 300px;
+}
